@@ -1,0 +1,7 @@
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\PostExercise\PostExercise\PostExercise\bin\Debug\PostExercise.exe.config
+C:\Users\Angel\Documents\GitHub\UdemyExercises\PostExercise\PostExercise\bin\Debug\PostExercise.exe.config
+C:\Users\Angel\Documents\GitHub\UdemyExercises\PostExercise\PostExercise\bin\Debug\PostExercise.exe
+C:\Users\Angel\Documents\GitHub\UdemyExercises\PostExercise\PostExercise\bin\Debug\PostExercise.pdb
+C:\Users\Angel\Documents\GitHub\UdemyExercises\PostExercise\PostExercise\obj\Debug\PostExercise.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\GitHub\UdemyExercises\PostExercise\PostExercise\obj\Debug\PostExercise.exe
+C:\Users\Angel\Documents\GitHub\UdemyExercises\PostExercise\PostExercise\obj\Debug\PostExercise.pdb
