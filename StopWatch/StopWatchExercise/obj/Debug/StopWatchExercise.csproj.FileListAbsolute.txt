@@ -1,0 +1,6 @@
+c:\users\angel\documents\visual studio 2013\Projects\StopWatchExercise\StopWatchExercise\bin\Debug\StopWatchExercise.exe.config
+c:\users\angel\documents\visual studio 2013\Projects\StopWatchExercise\StopWatchExercise\bin\Debug\StopWatchExercise.exe
+c:\users\angel\documents\visual studio 2013\Projects\StopWatchExercise\StopWatchExercise\bin\Debug\StopWatchExercise.pdb
+c:\users\angel\documents\visual studio 2013\Projects\StopWatchExercise\StopWatchExercise\obj\Debug\StopWatchExercise.csprojResolveAssemblyReference.cache
+c:\users\angel\documents\visual studio 2013\Projects\StopWatchExercise\StopWatchExercise\obj\Debug\StopWatchExercise.exe
+c:\users\angel\documents\visual studio 2013\Projects\StopWatchExercise\StopWatchExercise\obj\Debug\StopWatchExercise.pdb
